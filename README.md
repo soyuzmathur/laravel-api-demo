@@ -1,7 +1,7 @@
 # To spin up client run from root DIR
  - Client is the frontend DIR
  - *cd client && npm run dev*
- - Goto *localhost:3000* to see UI
+ - Goto *http://localhost:3000* to see UI
 
 # Database
  - Database used is MySql and database sql file is in root DIR (*laravel_api.sql*)
