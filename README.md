@@ -1,6 +1,5 @@
-## Client is the frontend DIR
-
 # To spin up client run from root DIR
+ - Client is the frontend DIR
  - *cd client && npm run dev*
  - *Goto localhost:3000 to see UI*
 
